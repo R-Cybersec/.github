@@ -1,7 +1,4 @@
 <h1>R-Cybersec</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=redrider1666&label=Profile%20views&color=0e75b6&style=flat" alt="redrider1666" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redrider1666" alt="redrider1666" /></a> </p>
 
 <h3 align="left">Contact us:</h3>
 - 📫 Email: contact.R-Cybersec@proton.me
@@ -14,9 +11,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/redrider1666"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="redrider1666" /></a></p><br><br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redrider1666&show_icons=true&locale=en&layout=compact" alt="redrider1666" /></p>
-<br>
+
 
 
 
